@@ -1,4 +1,4 @@
-# Executive Summary for Project 2 invetigating the Ames, IA Housing Data
+# Predicting House Prices for Homes in Aimes, IA
 
 Below is the Order and Organization of this Summary:
 1. Background
